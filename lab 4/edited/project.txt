@@ -1,0 +1,3 @@
+the difference between lab and project is there will be a lengthy project a combination of both tcp and udp
+
+follow the steps in the project document, marks will be docked for not doing the things in the steps
